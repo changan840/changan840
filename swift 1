@@ -1,0 +1,14 @@
+import Foundation
+let sum:Int
+let inputA: Int=100
+let inputB: Int=200
+
+sum=inputA+inputB
+
+var nickName:String
+
+nickName="yagom"
+
+nickName="야곰"
+
+print(nickName)
